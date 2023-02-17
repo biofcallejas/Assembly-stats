@@ -1,7 +1,7 @@
 # Assembly-stats
 ## Python script for summarizing a genome assembly
 
-Before running the script, make sure the following libraries are installed:
+Before running the script, make sure the following libraries are installed (tested in Python 3.8.12):
 
 ```
 import tabulate
