@@ -47,7 +47,8 @@ Running script with test file:
 python fastaMetrics_py3.py -i pfalciparium3D7_PlasmoDB-61.fasta -o pf3d7
 ```
 
-![image](https://user-images.githubusercontent.com/45425927/219796106-4675887e-68ae-4625-9642-ae9ffec1f287.png)
+![image](https://user-images.githubusercontent.com/45425927/219796445-5bcce619-68b8-44d5-927a-ac0391bf8917.png)
+
 
 ## Output
 
