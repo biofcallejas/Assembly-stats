@@ -18,7 +18,7 @@ Max G+C per sequence
 ```
 ## Running the script with test files
 
-Before running the script, make sure the following libraries are installed (tested in Python 3.8.12):
+Before running the script, make sure the following libraries are installed (tested in Python 3.8.12, macOS Big Sur):
 
 ```
 import tabulate
@@ -52,4 +52,5 @@ python fastaMetrics_py3.py -i pfalciparium3D7_PlasmoDB-61.fasta -o pf3d7
 
 ## Output
 
-*In process*
+Results are also saved in a tsv file, as shown in the figure above (pf3d7_Summary.txt).
+It will also produce a table containing the cumulative length (pf3d7_CumulativeLength.txt).
