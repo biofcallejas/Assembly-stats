@@ -13,7 +13,7 @@ import plotext as plt
 python fastaMetrics_py3.py -h 
 usage: fastaMetrics.py [-h] -i INPUT -o OUTPUT
 
-Calculate summary statistics for genome assemblies (multifasta file)
+Calculate summary statistics for genome assemblies
 ---------------------
 Tested in python 3.8.12
 
