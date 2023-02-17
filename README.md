@@ -41,6 +41,14 @@ Mandatory arguments:
   -i INPUT, --input, Input fasta file (genome assembly)
   -o OUTPUT, --output, Prefix for the output files, results are also printed on screeen
 ```
+Running script with test file:
+
+```
+python fastaMetrics_py3.py -i pfalciparium3D7_PlasmoDB-61.fasta -o pf3d7
+```
+
+![image](https://user-images.githubusercontent.com/45425927/219796106-4675887e-68ae-4625-9642-ae9ffec1f287.png)
+
 ## Output
 
 *In process*
